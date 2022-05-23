@@ -11,7 +11,6 @@ from dash import dcc, html
 from dash.dependencies import Input, Output, State
 
 USERNAME_PASSWORD_PAIRS = [
-    ['francisconetomaq', 'ENG.mec.52.25'],
     ['teste123', '123456789']
 ]
 
